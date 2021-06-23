@@ -1,0 +1,125 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+
+.navmenu{
+    margin-left: 65%;
+    margin-top: 40px;
+}
+
+.navmenu a{
+    padding-right: 30px;
+    text-decoration: none;
+    color: rgb(71, 71, 71);
+    font-weight: bold ;
+    letter-spacing: 0px;
+}
+
+h1{
+    font-size: 60px;
+    font-weight:bold;
+    line-height: 15px;
+    
+}
+.name-highlight{
+    color: coral;
+}
+p{
+    margin-bottom: 40px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg,rgba(255, 186, 146, 0.925), rgb(204, 102, 7));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: cornsilk;
+}
+.section-element{
+    margin-top: 70px;
+    float: left;
+    width:40%;
+    height: 100%;
+    margin-left: 7%;
+    
+}
+.section-element img{
+    height: 100%;
+    
+    
+}
+.first-section{
+    height: 400px;
+    margin-left: 5%;
+}
+About{
+    font-weight: bold;
+}
+.second-section{
+    height: 400px;
+    margin-left: 5%;
+    margin-top: 0%;
+}
+.project{
+    text-align: center;
+    padding-top: 100px;
+    font-weight: 900;
+}
+.third-section{
+    margin-top: 15%;
+    height: 500px;
+    background-color: rgb(243, 240, 240);
+    margin-left:-8px ;
+    margin-right:-8px;
+    
+    
+    
+}
+.bottom-box{
+    float: left;
+    height: 300px;
+    width: 25%;
+    margin: .5%;
+    padding: 10px .5%;
+    background-color: white;
+    border-radius: 10px;
+   
+}
+.bottom-box img{
+    width: 100%;
+    
+    
+}
+h4{
+    font-weight: 900;
+}
+#bottom-first-image{
+    margin-left: 9.75%;
+}
+.fourth-section{
+    height: 400px;
+    width:60% ;
+    position: relative;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.banner img{
+    height: 100%;
+    width: 100%;
+}
+#banner-text-left{
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    font-stretch:extra-condensed;
+    
+}
+#chat{
+    position: absolute;
+    top: 70px;
+    right: 50px;
+}
